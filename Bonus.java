@@ -76,6 +76,7 @@ public class Bonus {
      var3 = var1 * 0.02; // Bonus is 2% of the salary
   }
 
+
   // Return the calculated bonus
   return var3;
 } }
